@@ -1,0 +1,10 @@
+{
+  "joaninha_transformation": {
+    "sounds": [
+      {
+        "name": "miraculous:sound_joaninha_transformation",
+        "stream": true
+      }
+    ]
+  }
+}
